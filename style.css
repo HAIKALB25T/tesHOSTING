@@ -1,0 +1,92 @@
+body{
+	font-family: arial;
+	background-color: #e8f3f8;
+
+}
+h1{
+color: 	steelblue;
+
+}
+
+table{
+	border-collapse: collapse;
+	font-size: 10pt;
+	border: 1px solid #cccccc;
+}
+
+td{
+	padding: 3px;
+	height: 25px;
+}
+
+th{
+	background-color: salmon;
+	color: white;
+	height: 30px;
+
+}
+
+h3{
+	color: salmon;
+}
+
+.btn-delete{
+	border: 1px solid #db5d59;
+	background: #db5d59 url('images/hapus.png') no-repeat 5px 4px;
+	height: 22px;
+	padding-left: 15px;
+	padding-top: 5px;
+}
+
+.btn-update{
+	border: 1px solid #00b3a8;
+	background: #00b3a8 url('images/edit.png') no-repeat 5px 4px;
+	height: 22px;
+	padding-left: 15px;
+	padding-top: 5px;
+}
+
+form{
+	margin: 20px auto;
+	width: 320px;
+	color: steelblue;
+}
+
+input{
+	padding: 10px;
+	font-size: inherit;
+}
+
+
+input{
+	padding: 10px;
+	font-size: inherit;
+}
+
+input[type="text"] {
+	display: block;
+	margin-bottom: 25px;
+	width: 100%;
+}
+input[type="submit"] {
+	width: 344px;
+	height: 45px;
+	border: none;
+	color: green;
+}
+table{
+	border-collapse: collapse;
+	font-size: 10pt;
+	border: 1px solid #cccccc;
+}
+
+td{
+	padding: 3px;
+	height: 25px;
+}
+
+th{
+	background-color: salmon;
+	color: white;
+	height: 30px;
+}
